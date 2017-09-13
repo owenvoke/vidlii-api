@@ -32,6 +32,8 @@ class DataType
     }
 
     /**
+     * Populate the values using data returned from a ResponseInterface
+     *
      * @param ResponseInterface $response
      */
     protected function fillValues(ResponseInterface $response)
