@@ -1,0 +1,7 @@
+language: php
+before_script:
+  - composer install --no-interaction
+php:
+  - '7.1'
+  - nightly
+script: phpunit
