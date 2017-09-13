@@ -50,4 +50,19 @@ class DataType
             }
         }
     }
+
+    /**
+     * Fetch a protected/private property by name
+     *
+     * @param string $item
+     * @return null
+     */
+    public function __get($item)
+    {
+        if (property_exists($this, $item)) {
+            return $this->$item;
+        }
+
+        return null;
+    }
 }

@@ -3,8 +3,12 @@
   "description": "A PHP wrapper for the VidLii API.",
   "minimum-stability": "stable",
   "license": "MIT",
+  "type": "library",
   "require": {
     "guzzlehttp/guzzle": "^6.3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.3.0"
   },
   "autoload": {
     "psr-4": {
