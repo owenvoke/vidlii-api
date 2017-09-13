@@ -16,6 +16,11 @@ class DataType
     protected $client;
 
     /**
+     * @var bool
+     */
+    protected $r;
+
+    /**
      * DataType constructor.
      */
     public function __construct()
