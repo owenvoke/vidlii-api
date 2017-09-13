@@ -39,8 +39,12 @@ class DataType
         $json = $response->getBody();
 
         foreach (json_decode($json) as $item => $value) {
-            if (property_exists($this, $item)) {
-                $this->$item = $value;
+            if ($item === 'r') {
+                $this->r = ($value === 'success') ? true : false;
+            } else {
+                if (property_exists($this, $item)) {
+                    $this->$item = $value;
+                }
             }
         }
     }
