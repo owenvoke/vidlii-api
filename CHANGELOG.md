@@ -1,5 +1,12 @@
 # Release Notes
 
+## v1.0.1 (2017-09-13)
+
+## Added
+- Added unit tests for PhpUnit
+- Added TravisCI support
+- Added badges for README
+
 ## v1.0.0 (2017-09-13)
 
 ### Added
