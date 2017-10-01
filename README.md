@@ -2,7 +2,7 @@
 
 A PHP wrapper for the [VidLii] API.
 
-[![Build Status](https://travis-ci.org/PXgamer/vidlii-api.svg?branch=master)](https://travis-ci.org/PXgamer/vidlii-api)
+[![Build Status](https://travis-ci.org/pxgamer/vidlii-api.svg?branch=master)](https://travis-ci.org/pxgamer/vidlii-api)
 [![Version](https://img.shields.io/packagist/v/pxgamer/vidlii-api.svg)](https://packagist.org/p/pxgamer/vidlii-api)
 [![License](https://img.shields.io/packagist/l/pxgamer/vidlii-api.svg)](https://opensource.org/licenses/mit-license)
 
