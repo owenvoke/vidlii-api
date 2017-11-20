@@ -1,13 +1,17 @@
-# Release Notes
+# Changelog
 
-## v1.0.1 (2017-09-13)
+All notable changes to `vidlii-api` will be documented in this file.
+
+Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
+
+## v1.0.1 - 2017-09-13
 
 ## Added
 - Added unit tests for PhpUnit
 - Added TravisCI support
 - Added badges for README
 
-## v1.0.0 (2017-09-13)
+## v1.0.0 - 2017-09-13
 
 ### Added
 - DataType class for extension
