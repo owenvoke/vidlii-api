@@ -4,6 +4,13 @@ All notable changes to `vidlii-api` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## v1.0.3 - 2017-11-20
+
+### Added
+- Updated format of the repository
+- Added namespacing for test classes
+- Keep style in check using StyleCI and Travis
+
 ## v1.0.2 - 2017-10-01
 
 ### Added
