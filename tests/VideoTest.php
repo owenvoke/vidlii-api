@@ -1,7 +1,8 @@
 <?php
 
+namespace pxgamer\VidLii;
+
 use PHPUnit\Framework\TestCase;
-use pxgamer\VidLii\Video;
 
 /**
  * Class VideoTest
