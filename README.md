@@ -9,14 +9,6 @@
 
 A PHP wrapper for the [VidLii] API.
 
-## Structure
-
-```
-src/
-tests/
-vendor/
-```
-
 ## Install
 
 Via Composer
